@@ -1,0 +1,7 @@
+streamlit
+xhtml2pdf
+selenium
+seleniumbase 
+langchain_core
+markdown
+langchain-google-genai
