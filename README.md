@@ -23,7 +23,7 @@ venv\Scripts\activate
 
 1. Install the requirements
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 2. Start the Streamlit server:
 ```bash
