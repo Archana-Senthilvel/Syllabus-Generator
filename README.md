@@ -30,6 +30,3 @@ pip install -r req.txt
 streamlit run app.py
 ```
 
-## Note
-
-- Download the correct Driver for the web scraping based on the browser : https://www.selenium.dev/documentation/webdriver/getting_started/ 
